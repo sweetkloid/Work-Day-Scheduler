@@ -11,7 +11,8 @@ $(document).ready(function () {
 //takes the current time and compares it to the block time on schedule
   $(".time-block").each(function() {
     var blockHour = parseInt($(this).attr("id").split("-")[1]);
-    
+    console.log(blockHour);
+    console.log(currentHour);
     if (blockHour < currentHour) {
       $(this).addClass("past");
     }
@@ -32,6 +33,7 @@ $(document).ready(function () {
   
   //displays the date at the top of the page
   const currentDate = new Date();
+  
   //this gets the date and diplays it in a specific formate
   
   const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'};
