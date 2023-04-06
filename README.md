@@ -11,7 +11,7 @@ Below is an image of the mock up, this was taken after working buisness hours as
 ![Image](Assets/image/Screenshot%202023-04-06%20194405.png)
 
 A demo of the page is linked below as well:
-[label](Assets/image/Work%20Day%20Scheduler.webm)
+[demo](Assets/image/Work%20Day%20Scheduler.webm)
 
 ## Credits
 Thanks to the Insturctors, TA's, Tutors, and of course my classmates for making this possible!
