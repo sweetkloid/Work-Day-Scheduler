@@ -11,7 +11,7 @@ Below is an image of the mock up, this was taken after working buisness hours as
 ![Image](assets/image/Screenshot%202023-04-06%20194405.png)
 
 A demo of the page is linked below as well:
-![Video](assets/image/05-third-party-apis-homework-demo.gif)
+[Demo](assets/image/05-third-party-apis-homework-demo.gif)
 
 ## Credits
 Thanks to the Insturctors, TA's, Tutors, and of course my classmates for making this possible!
