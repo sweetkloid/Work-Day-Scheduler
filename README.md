@@ -8,10 +8,10 @@ In this webpage build we modifided a built webpage to make it work better for th
 Github page linked here: [Github](https://github.com/sweetkloid/Work-Day-Scheduler)
 
 Below is an image of the mock up, this was taken after working buisness hours as shown by the greyed out boxes:
-![Image](assets/image/Screenshot%202023-04-06%20194405.png)
+![Image](Assets/image/Screenshot%202023-04-06%20194405.png)
 
 A demo of the page is linked below as well:
-[Demo](assets/image/05-third-party-apis-homework-demo.gif)
+![Demo](Assets/image/05-third-party-apis-homework-demo.gif)
 
 ## Credits
 Thanks to the Insturctors, TA's, Tutors, and of course my classmates for making this possible!
